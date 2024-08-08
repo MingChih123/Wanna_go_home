@@ -6,7 +6,8 @@
 姓名：李名智
 ## 遊戲介紹
 
-DEMO影片連結：https://youtu.be/5rOy24Zz5HA
+DEMO影片連結：https://youtu.be/IBamywP5Kfc
+
 ### 簡介
 本遊戲名為「好想回家」，本遊戲主要以射擊、冒險為主，藉由殭屍
 來製造緊張、恐怖氣氛。
